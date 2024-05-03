@@ -4,7 +4,7 @@
 # Sobre Mim - Analista de Dados em Formação
  👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas
  
- 👋 Sou um entusiasta em análise de dados apaixonado por descobrir insights significativos a partir de conjuntos complexos de informações. Estou em uma jornada para me tornar uma analista de dados talentosa e contribuir para um futuro mais informado e eficiente.
+ 👋 Sou um entusiasta em análise de dados apaixonada por descobrir insights significativos a partir de conjuntos complexos de informações. Estou em uma jornada para me tornar uma analista de dados talentosa e contribuir para um futuro mais informado e eficiente.
 
 ## Objetivo
 
