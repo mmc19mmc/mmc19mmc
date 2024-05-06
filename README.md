@@ -10,36 +10,6 @@
 
 Meu objetivo é aplicar minhas habilidades analíticas para resolver problemas do mundo real e impulsionar decisões inteligentes através da análise de dados.
 
-## Habilidades
-
-Aqui estão algumas das habilidades que possuo:
-
-- **Trabalho em equipe**
-- **Comunicação**
-- **Excel**
-- **Planejamento e controle de manutenção**
-- **Gestão de materiais**
-- **Análise de dados**
-- **SAP ERP**
-- **Power BI**
-- **Python**
-- **SQL**
-- **ETL (Extract, Transform, Load)**
-- **Visualização de Dados**
-- **Modelagem de Dados**
-- **JavaScript**
-- **HTML**
-- **CSS**
-- **GIT / GITHUB**
-
-## Interesses
-
-- Exploração de dados
-- Visualização de dados
-- Machine Learning
-- Resolução de problemas
-- Tomada de decisão baseada em dados
-
 ## O que você encontrará neste repositório
 
 Este repositório é uma coleção dos meus projetos, aprendizados e experimentos relacionados à analise de dados. Aqui, compartilho meu progresso e aprendizado contínuo nesta empolgante área.
