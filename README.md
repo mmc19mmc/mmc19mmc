@@ -13,7 +13,7 @@
  
 ## O que você encontrará neste repositório
 
-Este repositório é uma coleção dos meus projetos, aprendizados e experimentos relacionados à analise de dados. Aqui, compartilho meu progresso e aprendizado contínuo nesta empolgante área.
+Este repositório é uma coleção dos meus projetos, aprendizados e experimentos. Aqui, compartilho meu progresso e aprendizado contínuo.
 
 ## Mantenha-se Conectado
 
