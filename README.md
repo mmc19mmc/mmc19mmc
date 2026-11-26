@@ -8,14 +8,14 @@
 
 ![MMC GitHub stats](https://github-readme-stats.vercel.app/api?username=mmc19mmc&show_icons=true)
 
-# Sobre Mim - Analista de Dados em Formação
+# Sobre Mim 
  👩‍💻 Formada em Análise e Desenvolvimento de Sistemas
  
 ## O que você encontrará neste repositório
 
 Este repositório é uma coleção dos meus projetos, aprendizados e experimentos. Aqui, compartilho meu progresso e aprendizado contínuo.
 
-## Mantenha-se Conectado
+
 
 
 
